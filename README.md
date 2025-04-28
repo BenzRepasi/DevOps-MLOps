@@ -91,3 +91,11 @@ No problem! Here’s a **lean, hyper-focused 90-day DevOps/MLOps roadmap** that 
 - Created GH account
 - Downloaded and installed Docker
 - Book Docker Deep Dive (2025) pg. 64
+### 28.04.2025 - Day 2
+- Continue Docker Deep Dive (2025) until pg. 156
+- docker run, kill, exec, 
+- Manifest files
+- Entrypoint and Cmd in manifest
+- image vs container: 1:N relationship
+- docker pull: opinionated, defaults to dockerhub and latest tag
+- docker layers: docker -> containerd -> shim -> runc
