@@ -99,3 +99,4 @@ No problem! Here’s a **lean, hyper-focused 90-day DevOps/MLOps roadmap** that 
 - image vs container: 1:N relationship
 - docker pull: opinionated, defaults to dockerhub and latest tag
 - docker layers: docker -> containerd -> shim -> runc
+- added lazydocker and grepy utilities
