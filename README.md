@@ -100,3 +100,14 @@ No problem! Here’s a **lean, hyper-focused 90-day DevOps/MLOps roadmap** that 
 - docker pull: opinionated, defaults to dockerhub and latest tag
 - docker layers: docker -> containerd -> shim -> runc
 - added lazydocker and grepy utilities
+### 29-30.04 and 02.05.2025 - Day 3-5
+- Continue Docker Deep Dive (2025) until pg. 218
+- Pulled GitHub repo and containerised it via docker image
+- Connected to DockerHub
+- vulnerability scan with grype
+- FROM, RUN, COPY, WORKDIR -> layers
+- EXPOSE, ENV, CMD, ENTRYPOINT -> metadata
+- VS extension to create Dockerfile, then run Deepseek for review
+- MULTI-STAGE builds: Big image for compiling then copy it to slim-image
+- Dockerfile can have multiple target, need to specify it with docker build --target
+
